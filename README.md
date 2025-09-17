@@ -4,11 +4,7 @@ Welcome to the **YOLO** Badge Guide!
 
 This repo demonstrates how to earn the **YOLO** achievement badge on GitHub by merging a Pull Request without any review. 
 
-## 📸 YOLO Badge
-
-
 ![giphy](https://github.com/user-attachments/assets/0e565f4e-28a5-48ef-a3c6-c02d0751338e)
-
 
 ---
 
@@ -94,6 +90,21 @@ The **YOLO badge** is earned by merging a Pull Request without any review being 
    - Click **Merge pull request** → **Confirm merge**.
 
 ⚡ This method reliably triggers the YOLO badge.  
+
+---
+
+## 📸 Screenshots
+
+- Below are example screenshots to guide you.
+
+⚠️ Note: Your screen may look slightly different depending on GitHub updates.
+
+
+<img width="1366" height="768" alt="yolo-badge2" src="https://github.com/user-attachments/assets/c82935e8-6065-4d9d-8777-0f6dfe058cde" />
+
+
+<img width="1366" height="768" alt="yolo-badge1" src="https://github.com/user-attachments/assets/b525e35d-e418-4a41-8aed-6676b7cfd0f6" />
+
 
 ---
 
