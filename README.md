@@ -5,7 +5,10 @@ Welcome to the **YOLO** Badge Guide!
 This repo demonstrates how to earn the **YOLO** achievement badge on GitHub by merging a Pull Request without any review. 
 
 ## 📸 YOLO Badge
-![giphy](https://github.com/user-attachments/assets/e24a5d43-703c-4388-a5bb-fef23c71c7c6)
+
+
+![giphy](https://github.com/user-attachments/assets/0e565f4e-28a5-48ef-a3c6-c02d0751338e)
+
 
 ---
 
