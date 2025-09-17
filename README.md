@@ -2,7 +2,7 @@
 
 Welcome to the **YOLO** Badge Guide!  
 
-This repo demonstrates how to earn the **YOLO** achievement badge on GitHub by merging a Pull Request without review. 
+This repo demonstrates how to earn the **YOLO** achievement badge on GitHub by merging a Pull Request without any review. 
 
 ## 📸 YOLO Badge
 ![giphy](https://github.com/user-attachments/assets/e24a5d43-703c-4388-a5bb-fef23c71c7c6)
@@ -10,16 +10,16 @@ This repo demonstrates how to earn the **YOLO** achievement badge on GitHub by m
 ---
 
 ## 📌 What is the YOLO Badge?  
-The **YOLO badge** is awarded when you **merge a Pull Request you created, without requesting or receiving a review**.  
+The **YOLO badge** is earned by merging a Pull Request without any review being requested or submitted.  
 
-- It’s called “YOLO” because you’re saying *“You Only Live Once”* and merging without anyone checking your code 😅.  
-- Don’t do this in real projects but it’s fun to earn the badge.  
+- It’s called “YOLO” because you’re saying *“You Only Live Once”* and merging without anyone checking the code 😅.  
+- ⚠️ Merging without reviews is not a recommended practice in real projects. This guide is only for educational purposes to help you earn the "YOLO" badge.
 
 ---
 
 ## 🛠️ Step-by-Step Guide  
 
-### 👉 Two Ways to Earn YOLO Badge 💭
+### 👉 Two Ways to Earn YOLO Badge
 
 ## 1️⃣ Solo Method (Owner merges own PR)
 
@@ -61,21 +61,25 @@ The **YOLO badge** is awarded when you **merge a Pull Request you created, witho
    ```  
    - PR Description (suggested):  
    ```
-   This PR demonstrates merging without a review to earn the YOLO badge. Small README tweak.
+   This PR demonstrates merging without a review to earn the YOLO badge.
    ```  
    - Click **Create pull request**.  
 
 
-5️⃣ **YOLO Merge** 
-   - On the PR page → click **Merge pull request**.  
-   - Confirm the merge.  
+5️⃣ **YOLO Merge (no review)** 
+   - Important: **Do not request a review** and ensure **no review is submitted**.  
+   - Click **Merge pull request** → **Confirm merge**. 
    - Done! 🎉 You just merged your own PR without review.
+   
+> Tip: If the Merge button is disabled, check Branch protection rules in Settings. Temporarily remove any rule that requires reviews/approvals for the demo.
+
+---
 
 ## 2️⃣ Collaborator Method (Recommended ✅)
 
 1️⃣ **Add a collaborator**  
-   - Go to repo → **Settings → Collaborators → Add people**  
-   - Enter their GitHub username/email → they accept the invite.  
+   - Go to **Repo → Settings → Collaborators → Add people**  
+   - Enter their **GitHub username/email** → they accept the invite.  
 
 2️⃣ **Collaborator creates a PR**  
    - Collaborator forks your repo and makes a small change.  
@@ -83,8 +87,8 @@ The **YOLO badge** is awarded when you **merge a Pull Request you created, witho
 
 3️⃣ **Merge without review**  
    - As repo owner, open the PR.  
-   - Do not request a review.  
-   - Click **Merge pull request** → **Confirm merge**.  
+   - Important: **Do not request a review** and ensure **no review is submitted**.  
+   - Click **Merge pull request** → **Confirm merge**.
 
 ⚡ This method reliably triggers the YOLO badge.  
 
