@@ -10,11 +10,25 @@ This repo demonstrates how to earn the **YOLO** achievement badge on GitHub by m
 
 ---
 
+## 📢 Table of Contents
+
+- [What is the Yolo Badge?](#-what-is-the-yolo-badge)
+- [Step-by-Step Guide](#%EF%B8%8F-step-by-step-guide)
+  - [Solo Method](#1%EF%B8%8F%E2%83%A3-solo-method-owner-merges-own-pr)
+  - [Collaborator Method](#2%EF%B8%8F%E2%83%A3-collaborator-method-recommended-)
+- [Screenshots](#-screenshots)
+- [When Will the Badge Appear?](#%EF%B8%8F-when-will-the-badge-appear)
+- [Why This Repo?](#-why-this-repo)
+- [Author](#-author)
+
+
+---
+
 ## 📌 What is the YOLO Badge?  
 The **YOLO badge** is earned by merging a Pull Request without any review being requested or submitted.  
 
 - It’s called “YOLO” because you’re saying *“You Only Live Once”* and merging without anyone checking the code 😅.  
-- ⚠️ Merging without reviews is not a recommended practice in real projects. This guide is only for educational purposes to help you earn the "YOLO" badge.
+- **Merging without reviews is not a recommended practice in real projects**. This guide is only for educational purposes to help you earn the "YOLO" badge.
 
 ---
 
